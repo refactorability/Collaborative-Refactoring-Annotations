@@ -19,7 +19,7 @@ The first version supports the following refactoring operations:
 - @CodeRefactorability (for configurable code refactoring)
 
 ## Deployment
-In order to add [Corean] library to intellij without source control you need to do the following steps:
+In order to add [Corean] library to _intellij_ without source control you need to do the following steps:
 
 Right click -> open module settings
  

@@ -21,17 +21,17 @@ The first version supports the following refactoring operations:
 ## Deployment
 In order to add [Corean] library to _intellij_ without source control you need to do the following steps:
 
-Right click -> open module settings
+Right click -> open _module settings_
  
 ![image](https://user-images.githubusercontent.com/107777285/183267037-20fcc8e2-60b2-4e54-9c3a-77bd3d8a392d.png)
 
 ![image](https://user-images.githubusercontent.com/107777285/183267098-f82c9636-fb9d-4e7b-b4a9-911a67c9be29.png)
 
-File -> settings
+_File_ -> _settings_
 
 ![image](https://user-images.githubusercontent.com/107777285/183267164-dc7a8fc2-ebb8-4658-ae70-9db0a7510b40.png)
 
-In order to add Corean library to *intellij* with Maven you need to add:
+In order to add Corean library to _intellij_ with Maven you need to add:
 
 ![image](https://user-images.githubusercontent.com/107777285/183267333-85b22991-1761-4031-bc31-1f86a0aa2118.png)
 

@@ -31,7 +31,7 @@ File -> settings
 
 ![image](https://user-images.githubusercontent.com/107777285/183267164-dc7a8fc2-ebb8-4658-ae70-9db0a7510b40.png)
 
-In order to add Corean library to intellij with Maven you need to add:
+In order to add Corean library to *intellij* with Maven you need to add:
 
 ![image](https://user-images.githubusercontent.com/107777285/183267333-85b22991-1761-4031-bc31-1f86a0aa2118.png)
 

@@ -37,6 +37,7 @@ In order to add Corean library to intellij with Maven you need to add:
 
 ## Usage notes:
 -	In the project file structure, the src folder should be in one of out's/target's parent folders.
--	When using @RefactorableMethod or @RefactorableCode annotations, the configuration file (refactorability_configuration.json) should be located in the same folder as the project's src folder.
+-	When using @RefactorableMethod or @RefactorableCode annotations, the configuration file ([refactorability_configuration.json]) should be located in the same folder as the project's src folder.
 
-[Corean]: <[http://daringfireball.net](https://github.com/refactorability/Collaborative-Refactoring-Annotations/blob/main/collaborative-refactoring-annotations-0.0.1.jar)> 
+[Corean]: <https://github.com/refactorability/Collaborative-Refactoring-Annotations/blob/main/collaborative-refactoring-annotations-0.0.1.jar)> 
+[refactorability_configuration.json]: <https://github.com/refactorability/Collaborative-Refactoring-Annotations/blob/main/collaborative-refactoring-annotations-0.0.1.jar> 

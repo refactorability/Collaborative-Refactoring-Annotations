@@ -10,7 +10,7 @@ The first version supports the following refactoring operations:
 - Configurable method refactoring
 - Configurable code refactoring
 
-## Annotations
+## _Annotations_
 
 - @MovableMethod (for move method operation)
 - @ExtractableCode with pseudo annotations: /*@ExtractableBegin*/ and /*@ExtractableEnd*/ (for extract method operation)
@@ -18,7 +18,7 @@ The first version supports the following refactoring operations:
 - @MethodRefactorability (for configurable method refactoring)
 - @CodeRefactorability (for configurable code refactoring)
 
-## Deployment
+## _Deployment_
 In order to add [Corean] library to _intellij_ without source control you need to do the following steps:
 
 Right click -> open _module settings_
@@ -35,7 +35,7 @@ In order to add Corean library to _intellij_ with _Maven_ you need to add:
 
 ![image](https://user-images.githubusercontent.com/107777285/183267333-85b22991-1761-4031-bc31-1f86a0aa2118.png)
 
-## Usage notes:
+## _Usage notes_
 -	In the project file structure, the src folder should be in one of out's/target's parent folders.
 -	When using @RefactorableMethod or @RefactorableCode annotations, the configuration file ([refactorability_configuration.json]) should be located in the same folder as the project's src folder.
 

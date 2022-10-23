@@ -1,5 +1,5 @@
 # Corean
-## Collaborative Refactoring Annotations
+## _Collaborative Refactoring Annotations_
 
 Corean is a library for managing the sharing of responsibility for  refactoring operations.
 
